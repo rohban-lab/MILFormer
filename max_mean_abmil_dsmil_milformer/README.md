@@ -1,0 +1,1 @@
+The files train.py and utils.py are mostly written by us and partially copied  [ABMIL](https://github.com/AMLab-Amsterdam/AttentionDeepMIL) , [DSMIL](https://github.com/binli123/dsmil-wsi), and most of [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) codes.
